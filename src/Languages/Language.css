@@ -1,0 +1,50 @@
+.lang_section{
+    position: relative;
+    left:30%;
+    margin-top: 5%;
+    width:50%;
+}
+.lang_main_title_div{
+    margin-bottom: 50px;
+}
+.lang_main_title{
+    font-size: 3rem;
+}
+
+.progress{
+    margin-top: 5px;
+    height: 15px;
+}
+
+.lang_title{
+    margin-right:100% ;
+}
+.lang_title span{
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+@media screen and (max-width:600px){
+    .lang_section{
+       width: 70%;
+    }
+    .progress{
+        width: 220px;
+    }
+    .cont{
+        position: relative;
+        left:-40%;
+        
+    }
+    .lang_main_title_div{
+        position: relative;
+        right:30%;
+        margin-bottom: 50px;
+    }
+
+}
+@media screen and (max-width:420px){
+    .cont{
+        left:-20%;
+    }
+}

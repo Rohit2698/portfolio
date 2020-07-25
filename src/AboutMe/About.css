@@ -1,0 +1,23 @@
+.data p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.my-image{
+    width: 14em;
+    height: 14em;
+    border-radius: 50%;
+}
+
+.about span{
+    font-size: 3rem;
+}
+.about{
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width:600px){
+    .data{
+        margin-top: 50px;
+    }
+}

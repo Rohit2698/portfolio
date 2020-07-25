@@ -1,0 +1,21 @@
+
+.projects{
+    width: 18rem;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+button{
+    margin-top: auto;
+}
+
+@media screen and (max-width:600px){
+    .projects{
+        margin-left: 6%;
+    }
+}
+
+@media screen and (width:411px){
+    .projects{
+        margin-left: 70px;
+    }
+}
