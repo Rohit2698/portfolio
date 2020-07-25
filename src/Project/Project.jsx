@@ -1,11 +1,12 @@
 import React from "react";
 import Card from "../Cards/Cards";
 import "./Project.css";
-import lyr from '../images/lyricistan.JPG';
-import pok from '../images/pokemon.JPG';
-import covid from '../images/covid.JPG';
-import kbc from '../images/kbc.JPG';
-import movie from '../images/movie.JPG';
+import lyr from "../images/lyricistan.JPG";
+import pok from "../images/pokemon.JPG";
+import covid from "../images/covid.JPG";
+import kbc from "../images/kbc.JPG";
+import movie from "../images/movie.JPG";
+import graph from "../images/graph.JPG";
 const Project = () => {
   return (
     <>
@@ -36,7 +37,7 @@ const Project = () => {
                     and get the result according to the countries. Just go and search the name of your
                     country and you will get all data.  "
             lang={["Reactjs", "HTML", "CSS", "BOOTSTRAP"]}
-            website='https://coronafight.netlify.app'
+            website="https://coronafight.netlify.app"
             img={covid}
           />
           <Card
@@ -47,7 +48,7 @@ const Project = () => {
                     So in this pandemic decide to create the replica of this
                     awesome game show using my knowledge of Reactjs."
             lang={["Reactjs", "HTML", "CSS", "BOOTSTRAP"]}
-            website='https://kbckhelo.netlify.app/'
+            website="https://kbckhelo.netlify.app/"
             img={kbc}
           />
           <Card
@@ -62,9 +63,8 @@ const Project = () => {
                     cards but know i have 800 cards try it. You could get 
                     Pikachu."
             lang={["Reactjs", "HTML", "CSS", "BOOTSTRAP"]}
-            website='https://cardpokemon.netlify.app'
+            website="https://cardpokemon.netlify.app"
             img={pok}
-
           />
           <Card
             name="Movie Search Application"
@@ -77,8 +77,16 @@ const Project = () => {
                     as well as rating. And then decide whether you want 
                     to watch or not."
             lang={["Reactjs", "HTML", "CSS", "BOOTSTRAP"]}
-            website='https://moviechuno.netlify.app'
+            website="https://moviechuno.netlify.app"
             img={movie}
+          />
+          <Card
+            name="Chart Making Application"
+            info1="The Application that allow you to make different charts."
+            info2="Since data is the new money and as increase in data it become quite difficult to make a difference between them. So keeping this in mind created a Simple web Application that allow you to insert the data and give you the graphs(Line Graph,Bar Chart,Dough Nut Chart) that you want and save that graph as an image to your machine."
+            lang={["Reactjs", "HTML", "CSS", "BOOTSTRAP"]}
+            website="https://chartbanao.netlify.app/"
+            img={graph}
           />
         </div>
       </div>
