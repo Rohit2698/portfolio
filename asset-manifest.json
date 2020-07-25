@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.67f2dc2c.chunk.css",
+    "main.js": "/portfolio/static/js/main.bd61ce1e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bd61ce1e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.76308cb3.chunk.js": "/portfolio/static/js/2.76308cb3.chunk.js",
+    "static/js/2.76308cb3.chunk.js.map": "/portfolio/static/js/2.76308cb3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.8bb4e9b0d9e10f764a94f5e008f92d14.js": "/portfolio/precache-manifest.8bb4e9b0d9e10f764a94f5e008f92d14.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.67f2dc2c.chunk.css.map": "/portfolio/static/css/main.67f2dc2c.chunk.css.map",
+    "static/js/2.76308cb3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.76308cb3.chunk.js.LICENSE.txt",
+    "static/media/covid.JPG": "/portfolio/static/media/covid.c6a84dfc.JPG",
+    "static/media/Header.css": "/portfolio/static/media/head.fdc3fd43.jpg",
+    "static/media/kbc.JPG": "/portfolio/static/media/kbc.03d5d55c.JPG",
+    "static/media/lyricistan.JPG": "/portfolio/static/media/lyricistan.1d12172c.JPG",
+    "static/media/movie.JPG": "/portfolio/static/media/movie.6f23ab74.JPG",
+    "static/media/pokemon.JPG": "/portfolio/static/media/pokemon.49772c42.JPG",
+    "static/media/rohit.jpg": "/portfolio/static/media/rohit.12aa77a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.76308cb3.chunk.js",
+    "static/css/main.67f2dc2c.chunk.css",
+    "static/js/main.bd61ce1e.chunk.js"
+  ]
+}
