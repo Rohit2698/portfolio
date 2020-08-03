@@ -17,6 +17,9 @@ class Footer extends Component{
                                 <li><a href="https://www.instagram.com/rohitthakur09/" target='_blank'><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="https://github.com/Rohit2698" target='_blank'><i class="fa fa-github"></i></a></li>
                                 <li><a href="https://www.facebook.com/profile.php?id=100011539634187" target='_blank'><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.hackerrank.com/rohit_thakur2698" target='_blank'><i class="fab fa-hackerrank"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/rohit-thakur-535769185/" target='_blank'><i class="fa fa-linkedin"></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>
